@@ -1,2 +1,2 @@
-<h1 align="center">Hi, I'm Khaled</h1>
-<p align="center">A developer who loves to create [UI, UX, DX] for the web.</p>
+#### Hi, I'm Khaled
+Coding at Haraj by day, tackling algorithms by night. Pushing pixels and lifting weights. UI/UX Aficionado.
